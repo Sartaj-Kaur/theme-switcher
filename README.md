@@ -3,14 +3,10 @@
 A simple webpage that lets you switch between multiple themes using JavaScript.
 Built with basic **HTML**, **CSS**, and **JavaScript**.
 
----
-
 🌍 Live Demo
 
-Click below to view the project online:
-👉 (Paste your GitHub Pages link here)
-
----
+Click to view the project online:
+[Theme Switcher](https://sartaj-kaur.github.io/theme-switcher/)
 
 ## 📂 Files Included
 
@@ -18,15 +14,11 @@ Click below to view the project online:
 * `style.css` – page styling
 * `script.js` – theme switching functionality
 
----
-
 ## ✨ Features
 
 * Switch between **Light**, **Dark**, **Tropical**, and **Pink** themes
 * Smooth color transitions
 * Beginner-friendly and easy to customize
-
----
 
 ## 🛠️ How to Use
 
